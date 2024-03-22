@@ -19,7 +19,7 @@ We use Google BigQuery as our Datalake.
 
 We use AWS as our main cloud provider.
 
-We use Langchain as our framework to use LLMs
+We use Langchain as our framework for LLMs
 
 ### How we do things
 
