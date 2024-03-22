@@ -26,10 +26,16 @@ We use Langchain as our framework for LLMs
 ### How we do things
 
 We are intense. If we should crash, we prefer at 400 km/h.
+
 We are crazy and weird.
+
 We are problem solvers, not problem seekers.
+
 We support each other. Nothing huge is made by one single person.
+
 We are obsessed, especially for our customers.
+
 We believe that life is a daring adventure or nothing at all.
 
-We are building the future of insurance, **brick by brick**
+
+### We are building the future of insurance, **brick by brick**
