@@ -1,4 +1,6 @@
-# Brick Seguros
+# Brick Seguros 🧱
+
+Hi 🤙
 
 ### What is Brick?
 We are solving risk for fleets in LATAM.
