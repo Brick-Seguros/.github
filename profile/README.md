@@ -25,7 +25,7 @@ We do that by usign the best tools to solve each of one of those problems.
 
 ### How we do things
 
-- We are intense. If we should crash, we prefer at 400 km/h.
+- We are intense. If we might crash, we prefer at 400 km/h.
 
 - We are crazy and weird.
 
