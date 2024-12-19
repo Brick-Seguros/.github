@@ -17,7 +17,7 @@ We do that by usign the best tools to solve each of one of those problems.
 
 - We use Python and Golang for specifics services.
 
-- We use Google BigQuery as our Datalake.
+- We use Google BigQuery as our DataWarehouse.
 
 - We use AWS as our main cloud provider.
 
@@ -25,7 +25,7 @@ We do that by usign the best tools to solve each of one of those problems.
 
 ### How we do things
 
-- We are intense. If we might crash, we prefer at 400 km/h.
+- We are intense. If we crash, we might as well do it at 400 km/h.
 
 - We are crazy and weird.
 
@@ -33,7 +33,7 @@ We do that by usign the best tools to solve each of one of those problems.
 
 - We support each other. Nothing huge is made by one single person.
 
-- We are obsessed, especially for our customers.
+- We are obsessed, especially with our customers.
 
 - We believe that life is a daring adventure or nothing at all.
 
