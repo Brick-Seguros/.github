@@ -1,4 +1,4 @@
-# Brick Seguros 🧱
+# Brick 🧱
 
 Hi 🤙
 
