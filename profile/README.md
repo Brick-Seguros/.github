@@ -5,7 +5,8 @@ Hi 🤙
 ### What is Brick?
 We are helping the largest insurers to build AI agents.
 
-We help them to automate underwriting and claims management by interacting with powerful agents that organize their knowledge base, build great decision oriented workflows and generate powerful insights. 
+We help them to automate underwriting and claims management by interacting with powerful agents that organize their knowledge base, build great decision oriented workflows and generate
+valuable insights. 
 
 We do that by usign the best tools to solve each of one of those problems.
 
