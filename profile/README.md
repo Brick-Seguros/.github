@@ -3,9 +3,9 @@
 Hi 🤙
 
 ### What is Brick?
-We are solving risk for fleets in LATAM.
+We are helping the largest insurers to build AI agents.
 
-It means helping them to choose the best drivers, analyze driving behaviours, handle claims and help to choose the best insurance coverages for each one reality.
+We help them to automate underwriting and claims management by interacting with powerful agents that organize their knowledge base, build great decision oriented workflows and generate powerful insights. 
 
 We do that by usign the best tools to solve each of one of those problems.
 
@@ -15,13 +15,9 @@ We do that by usign the best tools to solve each of one of those problems.
 
 - We use NestJS with typescript, CQRS and Postgres as our main backend.
 
-- We use Python and Golang for specifics services.
-
 - We use Google BigQuery as our DataWarehouse.
 
 - We use AWS as our main cloud provider.
-
-- We use Langchain as our framework for LLMs
 
 ### How we do things
 
